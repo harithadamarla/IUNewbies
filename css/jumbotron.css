@@ -131,15 +131,7 @@ html, body {
     z-index: 1;
 }
 
-.logo-small {
-    color: #ff8f66;
-    font-size: 50px;
-}
 
-.logo-smaller{
-    color: #ff8f66;
-    font-size: 30px;
-}
 
 .back-button{
     color: white ;
@@ -151,10 +143,7 @@ html, body {
     color: white;
     font-size: 15px;
 }
-.logo {
-    color: #ff8f66;
-    font-size: 200px;
-}
+
 
 .modal{
     margin-top: 20px;
@@ -205,37 +194,7 @@ html, body {
 
 a:hover{text-decoration: none;}
 
-#custom-search-input{
-    padding: 3px;
-    border: solid 1px #E4E4E4;
-    border-radius: 6px;
-    background-color: #fff;
-}
 
-#custom-search-input input{
-    border: 0;
-    box-shadow: none;
-}
-
-#custom-search-input button{
-    margin: 2px 0 0 0;
-    background: none;
-    box-shadow: none;
-    border: 0;
-    color: #666666;
-    padding: 0 8px 0 10px;
-    border-left: solid 1px #ccc;
-}
-
-#custom-search-input button:hover{
-    border: 0;
-    box-shadow: none;
-    border-left: solid 1px #ccc;
-}
-
-#custom-search-input .glyphicon-search{
-    font-size: 23px;
-}
 
 .nav-tabs li a {
     color: #777;
@@ -256,9 +215,6 @@ form{
     padding-bottom: 5px;
 }
 
-#profile{
-    height : 300px;
-}
 
 #leftPanel{
     background-color:#0079ac;
@@ -278,61 +234,12 @@ form{
     border-radius: 5px;
 }
 
-.error{
-    color:  red;
-    margin: 10px;
-}
+
 
 .btn{
     white-space:normal !important;
     word-wrap:break-word;
 }
 
-video#bgvid{
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
-    z-index: -100;
-    transform: translateX(-50%) translateY(-50%);
-// background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
-    background-size: cover;
-    transition: 1s opacity;
-}
 
-#profileEmail{
-    display:block;
-    width:350px;
-    word-wrap:break-word;
-}
 
-#profilexsEmail{
-    display:block;
-    width:350px;
-    word-wrap:break-word;
-    text-align: center;
-}
-
-#profilesmEmail{
-    display:block;
-    width:400px;
-    word-wrap:break-word;
-    text-align: center;
-}
-
-#profileEmail{
-    display:block;
-    width:350px;
-    word-wrap:break-word;
-    text-align: center;
-}
-
-#profilemdEmail{
-    display:block;
-    width:280px;
-    word-wrap:break-word;
-    text-align: center;
-}
